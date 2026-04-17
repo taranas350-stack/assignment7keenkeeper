@@ -2,6 +2,7 @@
 import { useActivity } from '@/context/ActivityContext';
 import React from 'react';
 import { BiCommentDots } from 'react-icons/bi';
+import { toast } from 'react-toastify';
 
 const TextButton = ({ friend }) => {
 

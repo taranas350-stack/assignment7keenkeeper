@@ -2,6 +2,7 @@
 import { useActivity } from '@/context/ActivityContext';
 import React from 'react';
 import { IoVideocamOutline } from 'react-icons/io5';
+import { toast } from 'react-toastify';
 
 const VideoButton = ({ friend }) => {
 
