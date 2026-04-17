@@ -17,6 +17,9 @@ const TextButton = ({ friend }) => {
                 day: "numeric"
             })
         });
+         toast.success(`text connect with ${friend.name}`,{
+                    position:'bottom-right'
+                })
     };
 
     return (

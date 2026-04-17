@@ -17,6 +17,9 @@ const VideoButton = ({ friend }) => {
                 day: "numeric"
             })
         });
+         toast.success(`video connect with ${friend.name}`,{
+                    position:'bottom-right'
+                })
     };
 
 
