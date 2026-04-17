@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Arif Rahman",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "email": "arif.dev@gmail.com",
+    "days_since_contact": 25,
+    "status": "overdue",
+    "tags": ["college", "tech", "hiking"],
+    "bio": "Former lab partner from University. We usually catch up on MERN stack trends and weekend treks.",
+    "goal": 14,
+    "next_due_date": "2026-03-22"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Jenkins",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+    "email": "sarah.j@outlook.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["work", "design"],
+    "bio": "Expert UI/UX designer. We share inspiration for minimal and premium web aesthetics.",
+    "goal": 30,
+    "next_due_date": "2026-05-13"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Ahmed",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    "email": "tanvir.market@aribamart.com",
+    "days_since_contact": 6,
+    "status": "almost due",
+    "tags": ["business", "childhood"],
+    "bio": "Consultant for organic trade. We discuss e-commerce growth strategies and pure food supply chains.",
+    "goal": 7,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 4,
+    "name": "Elena Rodriguez",
+    "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+    "email": "elena.rod@webflow.io",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["open source", "remote"],
+    "bio": "Met during a GitHub contribution sprint. She's based in Spain and loves JavaScript architecture.",
+    "goal": 30,
+    "next_due_date": "2026-03-01"
+  },
+  {
+    "id": 5,
+    "name": "Marcus Thorne",
+    "picture": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+    "email": "marcus.codes@protonmail.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": ["coding challenge", "close friend"],
+    "bio": "Accountability partner for coding streaks. We review each other's commits regularly.",
+    "goal": 3,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 6,
+    "name": "Priya Sharma",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop",
+    "email": "priya.designs@freelance.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["design", "marketing"],
+    "bio": "Specializes in digital ad layouts. We collaborate on creating clean, premium social media assets.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 7,
+    "name": "David Chen",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+    "email": "dchen.photo@gmail.com",
+    "days_since_contact": 60,
+    "status": "overdue",
+    "tags": ["photography", "travel"],
+    "bio": "Adventurer and professional photographer. Taught me a lot about visual storytelling.",
+    "goal": 30,
+    "next_due_date": "2026-02-14"
+  },
+  {
+    "id": 8,
+    "name": "Lila Vance",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&fit=crop",
+    "email": "lila.vance@edu.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["tutorial", "youtube"],
+    "bio": "Content creator helping me refine my faceless tutorial style and OBS recording setup.",
+    "goal": 10,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 9,
+    "name": "Samir Hossain",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    "email": "samir.h@agency.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["mentor", "business"],
+    "bio": "Senior developer who guides me on scalable architecture and professional growth.",
+    "goal": 7,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 10,
+    "name": "Jordan Smith",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+    "email": "jordan.s@creatives.io",
+    "days_since_contact": 0,
+    "status": "on-track",
+    "tags": ["photography", "coffee"],
+    "bio": "Fellow coffee enthusiast. We often meet to discuss aesthetic photography and lighting.",
+    "goal": 21,
+    "next_due_date": "2026-05-06"
+  }
+]
